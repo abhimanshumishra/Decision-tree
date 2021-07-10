@@ -1,0 +1,4 @@
+Entropy Heuristic Accuracy for dataset 1: 95.66666666666667
+Variance Heuristic Accuracy for dataset 1: 95.33333333333333
+Entropy Heuristic Accuracy for dataset 2: 72.33333333333333
+Variance Heuristic Accuracy for dataset 2: 72.5
